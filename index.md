@@ -5,6 +5,7 @@ subtitle: Causality Researcher
 ---
 
 I'm a Ph.D. student at [KIT Karlsruhe](https://www.kit.edu/) under the supervision of [Dominik Janzing](https://janzing.github.io/).
+You can reach me via e-mail under philipp.faller at partner.kit.edu.
 
 My research focuses on Causality and how to learn causal models robustly from observational data.
 
